@@ -1,2 +1,2 @@
 # projeto_python_basico
-Projeto em python inicial do bootcamp de analista de dados da Tripleten, onde os conceitos básicos da linguagem Python são aplicados de forma prática para demonstrar o seu potencial na manipulação e filtragem de dados.
+Este projeto consiste no tratamento e limpeza de uma base de dados de clientes de uma empresa de comércio eletrônico fictícia (Store 1). O foco principal é a preparação de dados utilizando Python puro para garantir que as informações de usuários, idades, categorias de interesse e gastos estejam padronizadas e prontas para análises futuras. O notebook percorre desde a identificação de inconsistências em strings e tipos de dados até a extração de métricas de faturamento e filtragem de perfis específicos de consumidores.
